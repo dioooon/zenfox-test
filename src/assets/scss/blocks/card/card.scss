@@ -1,0 +1,10 @@
+.u-card {
+  padding: 26px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}

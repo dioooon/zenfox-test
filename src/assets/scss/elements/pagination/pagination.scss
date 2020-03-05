@@ -1,0 +1,11 @@
+.pagination {
+  .page-item {
+    &.active {
+      a {
+        color: black;
+        font-size: 18px;
+        text-decoration: none;
+      }
+    }
+  }
+}
